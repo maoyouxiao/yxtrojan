@@ -1,0 +1,10 @@
+[
+    {
+        "module": "dirlister",
+        "kwargs": {}
+    },
+    {
+        "module": "environment",
+        "kwargs": {}
+    }
+]
